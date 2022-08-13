@@ -1,0 +1,31 @@
+@media(max-width:200px)
+{.container{
+    height:20em;
+    width:20em;
+    
+}
+}
+@media((min-width:360px) and (max-width:600px) )
+{.container{
+    height:20em;
+    width:50em;
+   
+
+}
+}@media((min-width:600px) )
+{.container{
+    height:20em;
+    width:50em;
+}
+}
+.inpt{
+    border-radius: 4px;
+}
+.btnn{
+    border-radius: 4px;
+    background-color: yellow
+}
+.btnn:hover{
+    border-radius: 4px;
+    background-color: rgb(255, 0, 247)
+}

@@ -1,0 +1,30 @@
+/* body{
+    display: flex;
+    justify-content:center;
+}
+.Main{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+.input{
+    margin-top:10em;
+    display: flex;
+    flex-direction: column;
+    width:16em;
+}
+input{
+    width:55em;
+}
+.button{
+    margin-top:2em; 
+    width:0em;
+    margin-left:-19em;
+}
+button{
+    width:3em;
+}
+a{
+    margin-left:-4em;
+} */
